@@ -1,0 +1,9 @@
+/* responsive*/
+@media only screen and (max-width: 768px) {
+	.about-icon img {width: 35%;}
+	.about-icon h4 {font-weight: 400;}
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {font-weight: 600;font-size: 18px;}
+    .cer-qut{padding-bottom: 56px;position: relative;bottom: -66px;}
+    .img-serv{padding-top: 335px;}
+   
+}

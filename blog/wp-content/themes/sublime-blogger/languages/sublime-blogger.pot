@@ -1,0 +1,90 @@
+# <!=Copyright (C) 2020 Sublime Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Sublime Blogger 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/sublime-blogger\n"
+"POT-Creation-Date: 2020-09-10 15:56:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:134
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:166
+#. translators: 1: Theme name, 2: Theme author.
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:172 functions.php:192
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:185
+msgid "View demo"
+msgstr ""
+
+#: functions.php:186
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:187
+msgid "Theme info"
+msgstr ""
+
+#: functions.php:188
+msgid "Support ticket"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Sublime Blogger"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://sublimetheme.com/wordpress-themes/sublime-blogger/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sublime Blogger is a beautiful and simple child theme of Sublime Blog. "
+"Sublime Blogger is  aimed at travel, food, and lifestyle bloggers. It is a "
+"fully responsive WordPress theme to get a high ranking on search engines "
+"like Google. Sublime Blogger displays your posts in a beautiful grid "
+"layout. Sublime Blogger also features a sticky header where your Site "
+"Identity, Menus and Search form slides from side. Likewise, this child "
+"theme is translation ready, RTL compatible, and speed optimized. It has a "
+"refined style that will give your website a professional look and feel. "
+"Check theme demo at https://demo.sublimetheme.com/sublime-blogger/, read "
+"the documentation at https://docs.sublimetheme.com/sublime-blogger/ and get "
+"support at https://sublimetheme.com/support/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sublime Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sublimetheme.com/"
+msgstr ""
+
+#: functions.php:27
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:35
+#. translators: If there are characters in your language that are not supported
+#. by Leckerli One, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Leckerli One font: on or off"
+msgid "on"
+msgstr ""
